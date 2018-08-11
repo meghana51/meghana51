@@ -1,4 +1,4 @@
-for num in range(100,1000):
+for num in range(150,160):
   temp=num
   sum=0
   while temp>0:
